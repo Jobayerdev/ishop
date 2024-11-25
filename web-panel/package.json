@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"@sentry/nextjs": "^6.7.1",
-		"@tanem/react-nprogress": "^3.0.70",
+		"@tanem/react-nprogress": "^3.0.77",
 		"antd": "^4.16.2",
 		"axios": "^0.21.1",
 		"axios-observable": "^1.1.6",
